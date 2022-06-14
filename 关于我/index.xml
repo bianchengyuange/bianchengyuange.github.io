@@ -1,105 +1,97 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on 编程哥</title>
-    <link>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
-    <description>Recent content in Docs on 编程哥</description>
+    <title>Docs on 编程猿</title>
+    <link>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+    <description>Recent content in Docs on 编程猿</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy;2020-{year} · 编程哥 · 版权所有</copyright>
+    <copyright>&amp;copy;2021-{year} · 编程猿(bianchengyuan.cn) · 版权所有 </copyright>
     <lastBuildDate>Sat, 11 Jan 2020 14:09:21 +0900</lastBuildDate>
     
-        <atom:link href="https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Depth 1</title>
-        <link>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/depth1/</link>
+        <link>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/depth1/</link>
         <pubDate>Fri, 28 Feb 2020 10:08:56 +0900</pubDate>
         
-        <guid>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/depth1/</guid>
+        <guid>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/depth1/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Getting Started</title>
-        <link>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/gettingstarted/</link>
+        <link>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/gettingstarted/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:39 +0900</pubDate>
         
-        <guid>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/gettingstarted/</guid>
+        <guid>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/gettingstarted/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Content Management</title>
-        <link>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/contentmanagement/</link>
+        <link>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/contentmanagement/</link>
         <pubDate>Tue, 28 Jan 2020 00:36:39 +0900</pubDate>
         
-        <guid>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/contentmanagement/</guid>
+        <guid>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/contentmanagement/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Related content</title>
-        <link>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/relatedcontent/</link>
+        <link>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/relatedcontent/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:09 +0900</pubDate>
         
-        <guid>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/relatedcontent/</guid>
+        <guid>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/relatedcontent/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Page Resources</title>
-        <link>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/pageresources/</link>
+        <link>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/pageresources/</link>
         <pubDate>Tue, 28 Jan 2020 00:39:06 +0900</pubDate>
         
-        <guid>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/pageresources/</guid>
+        <guid>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/pageresources/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Page Bundles</title>
-        <link>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/pagebundles/</link>
+        <link>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/pagebundles/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:59 +0900</pubDate>
         
-        <guid>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/pagebundles/</guid>
+        <guid>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/pagebundles/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Content Formats</title>
-        <link>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/contentfortmats/</link>
+        <link>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/contentfortmats/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
         
-        <guid>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/contentfortmats/</guid>
+        <guid>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/contentfortmats/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>关于我</title>
-        <link>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/aaaa/</link>
+        <link>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/aaaa/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:51 +0900</pubDate>
         
-        <guid>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/aaaa/</guid>
-        <description>当我在博客园写了快4年的博客之后，终于决定走出博客园看看。
-浏览过一些大神的博客之后，喜欢上了页面简洁干净的静态博客hexo，这个风格也和我的理念一致，简洁是智慧的灵魂。
-于是自己动手搭建hexo、选主题、买服务器、买域名。经过很多天的折腾，建起了这个小站。在建站的过程中参考了一些很好的文档能够指导我高效的完成目标。为了致敬那些写文档的作者，同时也避免后来人少折腾，记录下小站的搭建过程。
-环境 系统： linux系统 深度 deepin 15.11
-基础环境安装   下载最新的nodejs https://nodejs.org/en/download/。nodejs尽可能下载最新的，低版本的会出现各种问题。
-  解压到指定目录
-  sudo tar xf node-v14.16.1-linux-x64.tar.xz -C /opt添加命令链接
-进入 /opt/node-v14.16.1-linux-x64/bin 可以看到下面的三个可执行文件:  ljk@work:/opt/node-v14.16.1-linux-x64/bin$ lsnode npm npxsudo ln -s /opt/node-v14.16.1-linux-x64/bin/node /usr/local/bin/nodesudo ln -s /opt/node-v14.16.1-linux-x64/bin/npm /usr/local/bin/npm验证安装  node -vv14.16.1npm -vo6.14.12```language安装hexo  在bin目录安装hexo
-接着上面的步骤，在/opt/node-v14.16.1-linux-x64/bin下安装hexo。hexo本质上就是一个node.js的包  sudo npm install hexo -g验证hexo安装  hexo -v设置hexo全局命令  sudo ln -s /opt/node-v14.</description>
+        <guid>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/aaaa/</guid>
+        <description>当我在博客园写了快4年的博客之后，终于决定走出博客园看看。 浏览过一些大神的博客之后，喜欢上了页面简洁干净的静态博客hexo，这个风格也和我的</description>
       </item>
       
       <item>
         <title>Image Processing</title>
-        <link>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/imageprocessing/</link>
+        <link>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/imageprocessing/</link>
         <pubDate>Tue, 28 Jan 2020 00:38:48 +0900</pubDate>
         
-        <guid>https://www.bianchengge.cn/%E5%85%B3%E4%BA%8E%E6%88%91/imageprocessing/</guid>
+        <guid>https://www.bianchengyuan.cn/%E5%85%B3%E4%BA%8E%E6%88%91/imageprocessing/</guid>
         <description>Markdown here</description>
       </item>
       

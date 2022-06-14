@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Getting Started on 编程哥</title>
-    <link>https://www.bianchengge.cn/sql/gettingstarted/</link>
-    <description>Recent content in Getting Started on 编程哥</description>
+    <title>Getting Started on 编程猿</title>
+    <link>https://www.bianchengyuan.cn/sql/gettingstarted/</link>
+    <description>Recent content in Getting Started on 编程猿</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy;2020-{year} · 编程哥 · 版权所有</copyright>
+    <copyright>&amp;copy;2021-{year} · 编程猿(bianchengyuan.cn) · 版权所有 </copyright>
     <lastBuildDate>Tue, 28 Jan 2020 00:34:39 +0900</lastBuildDate>
     
-        <atom:link href="https://www.bianchengge.cn/sql/gettingstarted/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.bianchengyuan.cn/sql/gettingstarted/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Basic Usage</title>
-        <link>https://www.bianchengge.cn/sql/gettingstarted/basicusage/</link>
+        <link>https://www.bianchengyuan.cn/sql/gettingstarted/basicusage/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:51 +0900</pubDate>
         
-        <guid>https://www.bianchengge.cn/sql/gettingstarted/basicusage/</guid>
+        <guid>https://www.bianchengyuan.cn/sql/gettingstarted/basicusage/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Configuration</title>
-        <link>https://www.bianchengge.cn/sql/gettingstarted/configuration/</link>
+        <link>https://www.bianchengyuan.cn/sql/gettingstarted/configuration/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:56 +0900</pubDate>
         
-        <guid>https://www.bianchengge.cn/sql/gettingstarted/configuration/</guid>
+        <guid>https://www.bianchengyuan.cn/sql/gettingstarted/configuration/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Installation</title>
-        <link>https://www.bianchengge.cn/sql/gettingstarted/installation/</link>
+        <link>https://www.bianchengyuan.cn/sql/gettingstarted/installation/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:13 +0900</pubDate>
         
-        <guid>https://www.bianchengge.cn/sql/gettingstarted/installation/</guid>
+        <guid>https://www.bianchengyuan.cn/sql/gettingstarted/installation/</guid>
         <description>Markdown here</description>
       </item>
       
       <item>
         <title>Quick Start</title>
-        <link>https://www.bianchengge.cn/sql/gettingstarted/quickstart/</link>
+        <link>https://www.bianchengyuan.cn/sql/gettingstarted/quickstart/</link>
         <pubDate>Tue, 28 Jan 2020 00:34:41 +0900</pubDate>
         
-        <guid>https://www.bianchengge.cn/sql/gettingstarted/quickstart/</guid>
+        <guid>https://www.bianchengyuan.cn/sql/gettingstarted/quickstart/</guid>
         <description>Markdown here</description>
       </item>
       
