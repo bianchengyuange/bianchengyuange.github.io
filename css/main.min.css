@@ -4302,7 +4302,7 @@ input:checked+.slider:before {
     display: grid;
     height: 100%;
     //grid-template-columns: minmax(200px, 240px)minmax(350px, 769px)minmax(240px, 320px);
-    grid-template-columns: minmax(200px, 400px) minmax(800px, 1500px) minmax(240px, 350px);    
+    grid-template-columns: minmax(200px, 400px) minmax(350px, 1000px) minmax(240px, 350px);    
     grid-template-rows: auto;
     grid-column-gap: 0;
     grid-row-gap: 0;
